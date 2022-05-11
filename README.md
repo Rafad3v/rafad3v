@@ -11,7 +11,7 @@ Sou apaixonado por desenvolvimento web e atualmente estou cursando Análise e De
 <hr>
 
 - 📚 - Eu estudo desenvolvimento web.
-- 💼 - Atualmente estou em busca de um estágio.
+- 💼 - Estou em busca de um estágio.
 - 💻 - Tecnologias: HTML, CSS, JavaScript, React e Git.
 
 <hr>
