@@ -1,4 +1,4 @@
-### Prazer, meu nome é Rafael 👋
+### Olá, meu nome é Rafael 👋
 
 Sou apaixonado por desenvolvimento web e atualmente estou cursando Análise e Desenvolvimento de Sistemas. </br>
 
